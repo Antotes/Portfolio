@@ -3,3 +3,6 @@ https://antotes.github.io/Portfolio/TexasRealEstateAnalysis_Tesone.html
 
 ## Newborn weight prediction model
 https://antotes.github.io/Portfolio/NewbornWeightModel.html
+
+## Super store sales analysis
+https://public.tableau.com/shared/9MMWNDZXH?:display_count=n&:origin=viz_share_link
