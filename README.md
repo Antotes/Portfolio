@@ -1,3 +1,6 @@
+## Wikipedia analysis
+https://antotes.github.io/Portfolio/Wikipedia%20analysis.html
+
 ## Texas real estate analysis 
 https://antotes.github.io/Portfolio/TexasRealEstateAnalysis_Tesone.html
 
